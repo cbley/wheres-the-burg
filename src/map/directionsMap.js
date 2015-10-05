@@ -76,7 +76,7 @@ DirectionsMap.prototype.onDragEnd = function onDragEnd(event) {
 };
 
 DirectionsMap.prototype.addUserPoint = function addClickPoint(latlng) {
-  if (!this.userPoint) {
+  if (!this.userPoint) { // first load
     this.userPoint = L.marker(latlng, {
       icon: L.mapbox.marker.icon({
         'marker-symbol': 'star',
@@ -84,9 +84,25 @@ DirectionsMap.prototype.addUserPoint = function addClickPoint(latlng) {
         'marker-color': '1f67c4'
       }),
       draggable: true
+    }).bindLabel('Hey! You can drag me!', {
+      noHide: true,
+      direction: 'left',
+      offset: [17, -30]
     }).addTo(this.map);
 
+    var self = this;
+    setTimeout(function setTimeout() {
+      self.userPoint.hideLabel();
+    }, 5000);
+
     this.userPoint.on('dragend', this.onDragEnd.bind(this));
+    this.userPoint.on('click', function onClick() {
+      self.userPoint.showLabel();
+
+      setTimeout(function setTimeout() {
+        self.userPoint.hideLabel();
+      }, 2000);
+    });
   } else {
     this.userPoint.setLatLng(latlng);
     this.userPoint.update();
