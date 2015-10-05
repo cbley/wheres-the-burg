@@ -1,0 +1,45 @@
+{
+  "name": "wheres-the-burg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "clean": "rm -r dist/*",
+    "lint": "eslint --no-eslintrc -c .eslintrc src",
+    "build:html": "mkdir -p dist && cp index.html dist/",
+    "build:lib": "mkdir -p dist/lib && cp -r lib/* dist/lib/",
+    "build:js": "browserify -t brfs src/index.js | uglifyjs -c > dist/app.js",
+    "build": "npm run lint && npm run build:html && npm run build:lib && npm run build:js",
+    "publish": "npm run build && surge -p ./dist -d wheres-the-burg.surge.sh",
+    "upload": "npm run build && npm run gulp upload",
+    "watch": "watchify -t brfs src/index.js -o dist/app.js --debug --verbose"
+  },
+  "author": "Christopher Bley <chrisbley@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "babelify": "^6.3.0",
+    "brfs": "^1.4.1",
+    "browserify": "^11.1.0",
+    "eslint": "^1.5.0",
+    "eslint-config-airbnb-es5": "^1.0.8",
+    "eslint-plugin-react": "^3.4.2",
+    "gulp": "^3.9.0",
+    "gulp-awspublish": "^3.0.1",
+    "gulp-rename": "^1.2.2",
+    "surge": "^0.15.0",
+    "tape": "^4.2.0",
+    "uglify-js": "^2.4.24",
+    "watchify": "^3.4.0"
+  },
+  "dependencies": {
+    "corslite": "0.0.7",
+    "geojson-extent": "^0.3.1",
+    "moment": "^2.10.6",
+    "ramda": "^0.17.1",
+    "turf-inside": "^1.1.4",
+    "turf-meta": "^1.0.2",
+    "turf-nearest": "^1.0.2"
+  }
+}

@@ -1,0 +1,3267 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HMAC",
+        "address": "1110 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88801050186156,
+          40.26820483483102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alvaro Bread and Pastry Shoppe",
+        "address": "236 Peffer St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89614832401276,
+          40.27712536830691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomato Pie Café",
+        "address": "3950 TecPort Drive Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.818903,
+          40.252041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Meadows of Hershey",
+        "address": "451 Sand Hill Rd. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.65539899999999,
+          40.268840000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Premier The Central Hotel & Conference Center",
+        "address": "800 East Park Dr. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.815534,
+          40.273656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susquehanna Art Museum",
+        "address": "1401 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88968420028687,
+          40.27085717417065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coffee Bean (in Giant)",
+        "address": "5074 Jonestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80384278297423,
+          40.31059296584595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks Coffee",
+        "address": "5116 Jonestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80088162422179,
+          40.31252780621015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uptown Chicago Grill",
+        "address": "2101 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89841747283934,
+          40.27844523718702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Inn Riverfront",
+        "address": "525 S. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87709122896193,
+          40.25506849180854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Dream Diner",
+        "address": "1933 Herr St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8638277053833,
+          40.276853206093406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Latino Hispanic American Community Center",
+        "address": "1319 Derry St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8681138753891,
+          40.262871189482745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Estrella Mexican Store",
+        "address": "1417 Derry St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8667244911194,
+          40.26268084056832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anna T’s",
+        "address": "210 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88319593667983,
+          40.26221008288834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cobble Creek Smoothie & Eatery",
+        "address": "709 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88827872276303,
+          40.26434893380333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Association of Harrisburg",
+        "address": "21 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88366264104845,
+          40.25910709379012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Shore Hospital",
+        "address": "1995 Technology Parkway Enola PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97828,
+          40.28197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juice & Grind Cafe",
+        "address": "271 Market St. Lemoyne PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.893726,
+          40.247032000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sheraton Harrisburg Hershey",
+        "address": "4650 Lindle Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80352900000001,
+          40.243528000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moe’s Southwest Grill",
+        "address": "4635 High Pointe Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.803491,
+          40.244887999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Days Inn",
+        "address": "815 S. Eisenhower Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79160000000002,
+          40.217777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe 101",
+        "address": "101 Front St. Boiling Springs PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12886699999999,
+          40.149623999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeroday Brewing Co.",
+        "address": "250 Reily St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89157247543334,
+          40.27167168343107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Thomas Roaster",
+        "address": "5951 Linglestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79338485002518,
+          40.3430729362669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Lion Inn",
+        "address": "4751 Lindle Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80066500000001,
+          40.241457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hampton Inn",
+        "address": "4230 Union Deposit Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81455500000001,
+          40.279566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orthopedic Institute of Pennsylvania",
+        "address": "3399 Trindle Rd. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93873199999999,
+          40.236963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coldwell Banker Real Estate",
+        "address": "5050 Linglestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81097209453581,
+          40.339425750976254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "Race and Conoy Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62988281249996,
+          40.329795743702064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Office of Rep. Patty Kim",
+        "address": "8 S. Front St. Steelton PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39343261718749,
+          40.354916750790586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homewood Suites Hilton",
+        "address": "3990 TecPort Dr. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.190185546875,
+          40.380028402511826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "StartUp",
+        "address": "1519 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89064979553224,
+          40.272191490745755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leeds Restaurant & Lounge",
+        "address": "750 Eisenhower Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.808723,
+          40.244379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brownstone Café",
+        "address": "1 N. Union St. Middletown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73159700000001,
+          40.195291000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friendly’s",
+        "address": "4601 High Pointe Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80629400000001,
+          40.24486099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Vineyard at Hershey",
+        "address": "598 Schoolhouse Rd. Middletown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.671166,
+          40.19541300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hotel Hershey",
+        "address": "100 Hotel Rd. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.659983,
+          40.301535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hall",
+        "address": "10 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88257634639739,
+          40.2598255425813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tröegs Brewing Co.",
+        "address": "200 E. Hersheypark Dr. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38818359374999,
+          40.380028402511826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middletown Public Library",
+        "address": "20 N. Catherine St. Middletown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7327,
+          40.19544200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Shore Farmers Market",
+        "address": "900 Market St. Lemoyne PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90328500000001,
+          40.242293000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Appalachian Brewing Co.",
+        "address": "3721 Market St. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94604700000001,
+          40.23807300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HACC Main Campus",
+        "address": "One HACC Dr. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88500642776486,
+          40.297088445693284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lancaster Brewing Co.",
+        "address": "469 Eisenhower Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81414600000001,
+          40.250092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Fresco",
+        "address": "3352 Paxton St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.832514,
+          40.254403999999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adult Medicine & Aesthetics",
+        "address": "2010 Market St. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.918931,
+          40.240247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TownePlace Suites by Marriott",
+        "address": "450 Friendship Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82598199999998,
+          40.251388999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Suites",
+        "address": "10 S Hanover St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18938350677487,
+          40.20048587493483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wyndham Garden Hotel Harrisburg/Hershey",
+        "address": "765 Eisenhower Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80877399999999,
+          40.242239000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enders Insurance",
+        "address": "5912 Linglestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79606974124911,
+          40.342917566923525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brothers Pizzeria",
+        "address": "1426 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89039230346677,
+          40.27141791777885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairfield Inn Marriott",
+        "address": "1018 Briarsdale Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82237899999998,
+          40.277063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candlewood Suites",
+        "address": "504 N. Mountain Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79326951503757,
+          40.32933363236601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wesley Union AME Zion Church",
+        "address": "5th & Camp St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8935626745224,
+          40.2824353817587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Line Diner (outside box) 3302 Derry St. Harrisburg PA",
+        "address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76171875,
+          40.36328834091584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Action Commission",
+        "address": "1514 Derry St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86457335948943,
+          40.2626624196772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilton Harrisburg",
+        "address": "1 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88185214996338,
+          40.26001589952952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cordier Auctions",
+        "address": "1500 Paxton St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86422467231753,
+          40.256006009342265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Town Deli",
+        "address": "512 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88535779714583,
+          40.2643591673772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B’Nai B’rith Apartments",
+        "address": "130 S. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87905460596086,
+          40.259236046699044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "2nd and Market Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73974609374999,
+          40.36328834091584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midtown Scholar",
+        "address": "1302 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88912093639374,
+          40.26972134714119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molly Brannigans",
+        "address": "2nd and Walnut St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88289016485211,
+          40.260455969993956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crowne Plaza Hotel",
+        "address": "23 S. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88054591417313,
+          40.25913984375853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The National Civil War Museum",
+        "address": "1 Lincoln Circle Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85568183660504,
+          40.27197865673775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "S. 13th & Derry Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86869859695433,
+          40.263137267712835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Executive House",
+        "address": "101 S. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87963128089905,
+          40.25878368700094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Premier Eye Care Group",
+        "address": "92 Tuscarora St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87539607286449,
+          40.25331009966092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CareerLink Capital Region",
+        "address": "100 N. Cameron St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87568038702008,
+          40.26668010194068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brethren Housing Association",
+        "address": "219 Hummel St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86991095542908,
+          40.262461836316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City House Bed & Breakfast",
+        "address": "915 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89048081636426,
+          40.26534158326157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nellie’s Southern Style Cafe",
+        "address": "306 Reily St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89008116722106,
+          40.271831309724426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hershey Public Library",
+        "address": "701 Cocoa Ave. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.646809,
+          40.276788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "State Museum",
+        "address": "300 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88577085733408,
+          40.26568133210125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roxy’s Café",
+        "address": "274 North St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88581109046933,
+          40.26508574716571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keystone Restaurant",
+        "address": "1000 N.3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88746869564056,
+          40.26744144937155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "Commonwealth & Forster Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8836787343025,
+          40.267646111197955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Amps Coffee Roasters",
+        "address": "1836 Green St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89515322446823,
+          40.27573589710566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacos La Barca",
+        "address": "1325 Derry St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86783760786057,
+          40.262834347799156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3rd Street Used Furniture",
+        "address": "1918 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89428955316545,
+          40.276834789061965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGraths Pub",
+        "address": "202 Locust St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88376724720001,
+          40.26120715342915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kline Branch Library",
+        "address": "530 S. 29th St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84094309806825,
+          40.264451269472474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salon Edjii",
+        "address": "3401 Derry St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.833749,
+          40.258672000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pita Pit",
+        "address": "100 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88343197107315,
+          40.26046006365924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciao Bakery",
+        "address": "3rd & Chestnut Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87916725873946,
+          40.2602328648604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benjamin Olewine III Nature Center",
+        "address": "100 Wildwood Way Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88258707523345,
+          40.30707084141268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HACC Midtown Campus",
+        "address": "1500 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89068734645839,
+          40.271548893718254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café at 1500",
+        "address": "1500 N. 6th St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88695907592772,
+          40.2732965796345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alta View Wellness Center",
+        "address": "4814 Jonestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80799216032028,
+          40.304720610923425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ted’s Bar & Grill",
+        "address": "1313 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89175486564636,
+          40.26911965806706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open Stage of Harrisburg",
+        "address": "223 Walnut St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.882121,
+          40.260987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Char’s at Tracy Mansion",
+        "address": "1829 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8971112370491,
+          40.27445894994129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinnacle Polyclinic",
+        "address": "2501 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89850866794586,
+          40.28623705426208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar 704",
+        "address": "704 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88597470521927,
+          40.26532520978044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historical Society of Dauphin County",
+        "address": "219 S. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87869250774382,
+          40.25653207790226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hershey Harrisburg Regional Visitors Bureau (2nd floor)",
+        "address": "3211 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90364241600037,
+          40.2996782826719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zembie’s",
+        "address": "226 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88487768173219,
+          40.261458910589056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Shore Area Library",
+        "address": "4501 Ethel St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81834280490874,
+          40.30359558044362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metro Bank Park",
+        "address": "City Island Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88911557197571,
+          40.255866815420354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Francis of Assissi Church",
+        "address": "1439 Market St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86750501394272,
+          40.26638947781199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chops Barbershop",
+        "address": "1103 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89126670360567,
+          40.26655730316543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Jackson House",
+        "address": "1004 N. 6th St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88496083021164,
+          40.26866736445659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LGBT Center of Central PA",
+        "address": "1306 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88919067382811,
+          40.26981548848484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocoa Beanery",
+        "address": "1215 Research Blvd. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17919921874999,
+          40.39676430557203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Appalachian Brewing Co.",
+        "address": "50 N. Cameron St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87525659799573,
+          40.26589623259468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zorba’s Taverna and Pizzeria",
+        "address": "3716 N. 6th St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89461410045621,
+          40.308574209675044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transit News",
+        "address": "Grace St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87793076038359,
+          40.26213025843516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hershey Lodge and Convention Center",
+        "address": "W. Chocolate Ave. and University Dr. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.660484,
+          40.282034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morrison Towers",
+        "address": "351 Chestnut St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87831968069075,
+          40.26038637764592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sturges Speakeasy",
+        "address": "400 Forster St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88550531864163,
+          40.26699733107834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrisburg International Airport",
+        "address": "1 Terminal Dr. Middletown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.755879,
+          40.196247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simply Turkey and More",
+        "address": "4455 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.899534,
+          40.32811000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilligan’s Bar and Grill",
+        "address": "987 Eisenhower Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.803952,
+          40.237343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antique Automobile Club of America Museum",
+        "address": "161 Museum Drive Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13525390624999,
+          40.3883968738836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broad Street Market",
+        "address": "1233 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88771009445188,
+          40.27009995827049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway Cafe",
+        "address": "1000 Herr St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87826871871947,
+          40.2721178175111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "N. 3rd and Reily Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89032793045043,
+          40.27163484654064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isaac’s Restaurant and Deli",
+        "address": "597 E. Main Street Hummelstown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.68911,
+          40.266863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "River Plaza Apartments",
+        "address": "2311 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90106213092804,
+          40.28196476157215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonial Park Diner",
+        "address": "4301 Jonestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82042999999999,
+          40.29870200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midtown Cinema",
+        "address": "250 Reily St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89125061035156,
+          40.27130740663268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jewish Community Center",
+        "address": "3301 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90317034721376,
+          40.30138432956998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Dauphin Pizza Shop",
+        "address": "4501 Locust Lane Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81322515010835,
+          40.291740711487435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aurora Social Rehabilitation Services",
+        "address": "401 Division St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89912557601929,
+          40.29103283124965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penn State’s Milton S. Hershey Medical Center",
+        "address": "500 University Dr. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.26708984375,
+          40.371658891506094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AllBetterCare Urgent Care Center",
+        "address": "1175 Walnut Bottom Rd. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21808314323425,
+          40.18145538172709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Courthouse Common Espresso Bar & Bistro",
+        "address": "1 S Hanover St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18902945518491,
+          40.200778830667346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Folklore Coffee & Co.",
+        "address": "1 N. Market St. Elizabethtown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60609,
+          40.151675999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilton Garden Inn",
+        "address": "3943 TecPort Dr. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81858,
+          40.251011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perry County Literacy Council",
+        "address": "133 S. 5th St. Newport PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13202714920044,
+          40.47420556837052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simply Turkey & More",
+        "address": "30 Erford Rd. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91484600000001,
+          40.255672000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Millworks",
+        "address": "320 Verbeke St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88740432262416,
+          40.27054610271878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wingate by Wyndham",
+        "address": "1344 Eisenhower Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79679300000001,
+          40.22701000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Neighborhood Center",
+        "address": "1801 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89287602901457,
+          40.27542484809485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perry County Council of the Arts",
+        "address": "1 S. 2nd St. Newport PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13027834892272,
+          40.4776761170077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Hanover Grille",
+        "address": "37 N. Hanover St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18853324651718,
+          40.20289913686861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gus’s",
+        "address": "1050 W. Main St. Mount Joy PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.530856,
+          40.116296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dillsburg Area Public Library",
+        "address": "17. S. Baltimore St. Dillsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02870599999999,
+          40.075382000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John’s Diner Family Restaurant",
+        "address": "146 Sheraton Dr. New Cumberland PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.877627,
+          40.213784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hetrick Center",
+        "address": "500 N. Union St. Middletown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.731898,
+          40.201423999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Express",
+        "address": "4021 Union Deposit Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.820909,
+          40.27817200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SpringHill Suites by Marriott",
+        "address": "15 Capital Dr. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55273437499999,
+          40.17887331434696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunters Valley Winery",
+        "address": "3 Orchard Rd. Liverpool PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99137210845944,
+          40.54246344809559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milanof-Schock Library",
+        "address": "1184 Anderson Ferry Rd. Mount Joy PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51214300000001,
+          40.104462999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarion Harrisburg West",
+        "address": "148 Sheraton Ave. New Cumberland PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.875959,
+          40.213246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allenberry Resort Inn & Playhouse",
+        "address": "1559 Boiling Springs Rd. Boiling Springs PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11947599999999,
+          40.149812000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reiki by Rickie",
+        "address": "2793 Old Post Rd. Suite 10 Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85237735509868,
+          40.32930909539244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sophia’s on Market",
+        "address": "3700 Market St. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.945828,
+          40.23933100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espresso Yourself Cafe",
+        "address": "8 S. 2nd St. Newport PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13065922260284,
+          40.477527178863234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TownPlace Suites By Marriott Harrisburg-West",
+        "address": "4915 Ritter Rd. Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.956974,
+          40.20449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PNC Bank",
+        "address": "6416 Carlisle Pike Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010749,
+          40.250173000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jo-Jo’s Pizza & Pasta",
+        "address": "107 W. Main St. Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01056700000001,
+          40.212442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metropolis Collective",
+        "address": "17 W. Main St. Mechanisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.708915,
+          40.26491300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlisle Diner",
+        "address": "800 W. High St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20601320266725,
+          40.20267174488532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredricksen Library",
+        "address": "100 N. 19th St. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91719600000002,
+          40.241944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whistlestop Bookshop",
+        "address": "129 W. High St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19237148761748,
+          40.20183591914938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U.S. Army Heritage and Education Center",
+        "address": "Soldiers Drive Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.160821,
+          40.207041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Higashi",
+        "address": "West Shore Farmers Market Lemoyne PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89410000000001,
+          40.2412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Issac’s Famous Grilled Sandwiches",
+        "address": "6520 Carlisle Pike Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024066,
+          40.24804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flinchy’s",
+        "address": "1833 Hummel Ave. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.911488,
+          40.234403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bosler Library",
+        "address": "158 W. High St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1932727098465,
+          40.201686370810805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumberland Valley Visitors Bureau",
+        "address": "53 W South St. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22314453125,
+          40.371658891506094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornerstone Coffee House",
+        "address": "2133 Market St. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.920846,
+          40.240083999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market Cross Pub",
+        "address": "113 N. Hanover St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1886485815048,
+          40.203378501253574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simply Well",
+        "address": "28 S. Pitt St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19205230474469,
+          40.20098369406386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hygea Wellness",
+        "address": "2321 Market St. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92422500000002,
+          40.240073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairgrounds Diner",
+        "address": "111 S. Spring St. Carlisle PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18136370182037,
+          40.198935032242694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aleco’s Steak & Hoagie",
+        "address": "620 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84857699999999,
+          40.23863300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HACC Rose Lehrman Arts Center",
+        "address": "One HACC Dr Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88629388809206,
+          40.29530455079637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pennsylvania Place",
+        "address": "301 Chestnut St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87864154577254,
+          40.259837823690866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newport Public Library",
+        "address": "316 N. 4th St. Newport PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13561594486238,
+          40.480585445179386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Bass Grill",
+        "address": "461 S. Front St. Wormleysburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89137935638426,
+          40.25025788094355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bucks Valley Winery & Vineyards",
+        "address": "333 Meadow Grove Rd. Newport PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033429145813,
+          40.49475896550331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Sol Mexican Restaurant",
+        "address": "18 S. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87988609075543,
+          40.26028403582762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crave & Co.",
+        "address": "614 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88815,
+          40.263789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Sled Works",
+        "address": "722 N. Market St. Duncannon PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02317774295805,
+          40.39796948960492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Colony House Family Restaurant",
+        "address": "125 W. Main St. Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01104000000001,
+          40.212030000000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Land Library",
+        "address": "48 Robin Hood Dr. Etters PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.41540527343749,
+          40.371658891506094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brew Crumberland’s Best",
+        "address": "1903 Bridge St. New Cumberland PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.884288,
+          40.2394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Cumberland Public Library",
+        "address": "1 Benjamin St. New Cumberland PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90429687500001,
+          40.11168866559595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marysville Diner",
+        "address": "510 S. State Rd. Marysville PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92626416683197,
+          40.33587037329599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One Good Woman",
+        "address": "1845 Market St. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91532500000001,
+          40.239740000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Buffalo State Park",
+        "address": "1579 State Route 4010 Newport PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2890625,
+          40.39676430557203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Harrisburg Area Association of Realtors",
+        "address": "424 N. Enola Dr. Enola PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.936152,
+          40.29881200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cupboard Maker Books",
+        "address": "157 N. Enola Rd. Enola PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93019000000001,
+          40.29250500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Inn",
+        "address": "130 Limekiln Rd. New Cumberland PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87876899999999,
+          40.214850999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranch House Restaurant",
+        "address": "3456 Susquehanna Trail Duncannon PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99898958206177,
+          40.434362007982166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Cumberland Diner",
+        "address": "435 Bridge St. New Cumberland PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86692400000001,
+          40.228461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Presbyterian Apartments",
+        "address": "322 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88619464635849,
+          40.26239633957947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gallery@Second",
+        "address": "608 N. 2nd  St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88797563314438,
+          40.26367965471007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangia Qui",
+        "address": "272 North St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88589155673976,
+          40.26504481330054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lords & Ladies Salon",
+        "address": "308 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88563406467438,
+          40.2620013110426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Office of Rep. Patty Kim",
+        "address": "Irvis Office Building G01 Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.93750000000001,
+          40.39676430557203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paxton Ministries",
+        "address": "2001 Paxton St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85184699999999,
+          40.254757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PM Bistro",
+        "address": "2007 State St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86070024967194,
+          40.27356261685518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agia Sophia",
+        "address": "Market & N. 3rd Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88067197799681,
+          40.26065041882217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grayco Apartments",
+        "address": "115 North St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8887051939964,
+          40.2636428134668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown Deli & Eatery",
+        "address": "225 Market St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88086241483687,
+          40.260480531982026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "3rd and Market Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47607421874999,
+          40.44694705960046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "3rd and Locust Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5419921875,
+          40.380028402511826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "3rd between State & North Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.498046875,
+          40.413496049701955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Box",
+        "address": "2nd and State Sts. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.201171875,
+          40.40513069752787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrisburg Downtown Improvement District",
+        "address": "22 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88319861888884,
+          40.260302457366315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penn State Hershey Cancer Institute",
+        "address": "500 University Dr. Hershey PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23413085937501,
+          40.329795743702064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3rd Street Studio",
+        "address": "1725 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8925541639328,
+          40.27479865298343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "What If … Restaurant",
+        "address": "3424 N. 6th St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89605712890625,
+          40.3018343587408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YMCA",
+        "address": "710 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88959300518036,
+          40.263949823214425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrisburg Chamber of Commerce/CREDC",
+        "address": "3211 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90358340740205,
+          40.29971101299374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellow Bird Café",
+        "address": "1320 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8894428014755,
+          40.27015930793101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midtown Tavern",
+        "address": "1101 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89019918441772,
+          40.26700961088603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverview Manor",
+        "address": "1519 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89470529556274,
+          40.271072058219595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historic Harrisburg Assoc",
+        "address": "1230 N. 3rd St Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88889831304547,
+          40.26941231702684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Solo",
+        "address": "200 N. 2nd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88409984111786,
+          40.26091855260553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emeritus at Harrisburg",
+        "address": "3560 Progress Ave. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8579751253128,
+          40.31741783743524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sleep Inn and Suites",
+        "address": "631 Eisenhower Blvd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.810074,
+          40.244856999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wegman’s",
+        "address": "6416 Carlisle Pike Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010749,
+          40.250173000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elizabethtown Public Library",
+        "address": "10 S. Market St. Elizabethtown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.606056,
+          40.150907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mr. G’s Place",
+        "address": "3745 N. 6th St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89409400000001,
+          40.310908999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yankee Doodle Diner",
+        "address": "902 N. Front St. Wormleysburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37145996093751,
+          40.338170452133944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abrams & Weakley",
+        "address": "3963 N. 6th St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89459800720216,
+          40.31550767917983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penn State Harrisburg",
+        "address": "777 W. Harrisburg Pike Middletown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74727700000001,
+          40.197494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Square Bean",
+        "address": "1 S. Baltimore St. Dillsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035079,
+          40.1108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheetz",
+        "address": "685 E. Main St. Hummelstown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.68976199999999,
+          40.269003000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarion Inn & Suites",
+        "address": "150 Nationwide Dr. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8483808636665,
+          40.30518084526476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cartridge World",
+        "address": "3875 Union Deposit Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.825285,
+          40.27835400000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nino’s Bistro & Italian Market",
+        "address": "18th and Market Sts. Camp Hill PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92,
+          40.2398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milestone on the River",
+        "address": "2701 N. Front St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90374970436096,
+          40.287857508441746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madeline L. Olewine Memorial Library",
+        "address": "2410 N. 3rd St. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89841747283934,
+          40.28455108595133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocoa Diner",
+        "address": "590 E. Main St. Hummelstown PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69128,
+          40.267783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonial Dental Group",
+        "address": "4940 Linglestown Rd. Harrisburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8136703968048,
+          40.33846485656477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AllBetterCare Urgent Care Center",
+        "address": "6481 Carlisle Pike Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019389,
+          40.246127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sophia’s at Walden",
+        "address": "129 Walden Way Mechanicsburg PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.020141,
+          40.237041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bube’s Brewery",
+        "address": "102 N. Market St. Mount Joy PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.503043,
+          40.111939
+        ]
+      }
+    }
+  ]
+}
