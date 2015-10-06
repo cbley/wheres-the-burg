@@ -32,7 +32,8 @@ function DirectionsMap(mapDivId, points, range) {
     setView: false,
     onLocationError: utils.noop,
     locateOptions: {
-      watch: false
+      watch: false,
+      timeout: 5000
     }
   }).addTo(this.map);
 
